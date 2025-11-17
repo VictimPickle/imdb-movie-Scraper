@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Finder 🎬
 
 A desktop application that searches for movies in a local JSON database and scrapes IMDb for additional information on missing movies.
@@ -179,3 +180,7 @@ For issues, questions, or suggestions, please open an issue on GitHub.
 ---
 
 **Made with ❤️ for movie enthusiasts**
+=======
+# imdb-movie-Scraper
+Movie Finder is a Python desktop app that searches a local JSON movie database and uses Selenium/BeautifulSoup to scrape IMDb for cast, crew, ratings, genres, and plot details if a movie isn't found locally. Includes a modern GUI and auto-save functionality.
+>>>>>>> e74df2b059cc5ac50b4dfd0635d881bea191ee12
